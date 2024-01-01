@@ -5,15 +5,15 @@ OmniSense integrates advanced AI techniques for real-time human behavior analysi
 
 ## Features
 - **Facial Landmark Detection**:
-  Uses AI to detect and analyze facial expressions for emotion recognition, enhancing user interaction analysis.
+Uses AI to detect and analyze facial expressions for emotion recognition, enhancing user interaction analysis.
 - **3D Hand Tracking**:
- Implements real-time hand tracking, allowing users to control presentations and interactive applications through gestures.
+Implements real-time hand tracking, allowing users to control presentations and interactive applications through gestures.
 - **Human Pose Detection**:
-  Analyzes user poses to evaluate engagement and attentiveness, especially useful in educational and meeting settings.
+Analyzes user poses to evaluate engagement and attentiveness, especially useful in educational and meeting settings.
 - **Drowsiness Detection**:
-   Monitors signs of fatigue, providing critical safety measures in environments like virtual learning and driving.
+Monitors signs of fatigue, providing critical safety measures in environments like virtual learning and driving.
 - **Eye Tracking**:
-   Offers insights into user focus and attention, crucial for UX/UI design in digital products.
+Offers insights into user focus and attention, crucial for UX/UI design in digital products.
 
 
 ## Technologies
